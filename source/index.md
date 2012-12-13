@@ -15,14 +15,14 @@ Somos una comunidad de desarrolladores de [\"ruby\"] [ruby] y
 > We are a community of [\"ruby\"] [ruby] developers and
   [\"Ruby on Rails\"] [ror] in the coastal region of Santa Fe, Argentina.
   
-## ¿como puedo juntarme? ##
+## ¿Cómo puedo juntarme? ##
 
 Primero, suscribite a [nuestro grupo en google] [group]. Y después deberías
 juntarte en nuestras reuniones mensuales *el primer jueves de cada mes*.
 
 > You join us in [*our group* in google groups] [group].
 
-## act_as_rubylit ##
+## Conferencias: act_as_rubylit ##
 
 Hasta el momento hemos realizado dos conferencias sobre ruby en la ciudad de
 Santa Fe y estamos organizando una tercera para mediados del 2013.
