@@ -19,6 +19,7 @@ Somos una comunidad de desarrolladores de [\"ruby\"] [ruby] y
 
 Primero, suscribite a [nuestro grupo en google] [group]. Y después deberías
 juntarte en nuestras reuniones mensuales *el primer jueves de cada mes*.
+Además, diariamente estamos en el canal *#rubylit*.
 
 > You join us in [*our group* in google groups] [group].
 
