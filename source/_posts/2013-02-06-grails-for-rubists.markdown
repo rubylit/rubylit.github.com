@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grails-for-Rubists"
+title: "Grails for Rubists"
 date: 2013-02-06 19:55
 comments: true
 categories: meetup
@@ -17,9 +17,8 @@ Les dejo el link a la presentación
 Detalles del framework: <http://grails.org>
 
 ---
-Manu García
-
-<https://twitter.com/rmgarciap>
+Manu García  
+<https://twitter.com/rmgarciap>  
 <manuel.garcia@altoros.com>
 
 
