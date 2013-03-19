@@ -25,7 +25,7 @@ themes_dir      = ".themes"   # directory for blog files
 new_post_ext    = "markdown"  # default new post file extension when using the new_post task
 new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 server_port     = "4000"      # port for preview server eg. localhost:4000
-
+repo_url        = "git@github.com:rubylit/rubylit.github.com.git"
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
 task :install, :theme do |t, args|
@@ -213,6 +213,7 @@ task :deploy do
     puts "## Found posts in preview mode, regenerating files ..."
     File.delete(".preview-mode")
     Rake::Task[:generate].execute
+    Rake::Task["setup_github_pages[#{repo_url}]"].execute
   end
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
@@ -241,12 +242,15 @@ task :rsync do
 end
 
 desc "deploy public directory to github pages"
-multitask :push do
+multitask do
   puts "## Deploying branch to Github Pages "
-  (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
+  Dir["#{deploy_dir}/*"].each { |f| rm_rf(f) }
+
   Rake::Task[:copydot].invoke(public_dir, deploy_dir)
+
   puts "\n## copying #{public_dir} to #{deploy_dir}"
   cp_r "#{public_dir}/.", deploy_dir
+
   cd "#{deploy_dir}" do
     system "git add ."
     system "git add -u"
@@ -299,7 +303,7 @@ task :setup_github_pages, :repo do |t, args|
   if args.repo
     repo_url = args.repo
   else
-    puts "Enter the read/write url for your repository" 
+    puts "Enter the read/write url for your repository"
     puts "(For example, 'git@github.com:your_username/your_username.github.com)"
     repo_url = get_stdin("Repository url: ")
   end
