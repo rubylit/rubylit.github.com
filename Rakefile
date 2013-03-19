@@ -242,7 +242,7 @@ task :rsync do
 end
 
 desc "deploy public directory to github pages"
-multitask do
+multitask :push do
   puts "## Deploying branch to Github Pages "
   Dir["#{deploy_dir}/*"].each { |f| rm_rf(f) }
 

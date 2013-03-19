@@ -10,7 +10,7 @@ categories: [meetup, XP]
 [Charla] [2] dictada por [Gastón Ramos] [1] en la meetup de Rubylit el 7 de febrero 2013.
 La charla es una explicación de la programación extrema, alentando a pensar
 y re-pensar nuestras metodologías de desarrollo y proponiendo una forma realmente
-ágil para aplanar la curva de cambio del software...
+ágil para aplanar la curva de cambio en el desarrollo de software.
 
 [1]: http://gastonramos.com.ar
 [2]: http://gastonramos.com.ar/talks/xp
