@@ -4,7 +4,7 @@
   <title><![CDATA[RubyLit - Ruby.del.litoral!]]></title>
   <link href="http://rubylit.github.com/atom.xml" rel="self"/>
   <link href="http://rubylit.github.com/"/>
-  <updated>2013-03-19T14:57:42-03:00</updated>
+  <updated>2013-03-20T11:06:31-03:00</updated>
   <id>http://rubylit.github.com/</id>
   <author>
     <name><![CDATA[rubylit]]></name>
@@ -21,9 +21,18 @@
     <content type="html"><![CDATA[<p><a href="http://gastonramos.com.ar/talks/xp">Charla</a> dictada por <a href="http://gastonramos.com.ar">Gastón Ramos</a> en la meetup de Rubylit el 7 de febrero 2013.
 La charla es una explicación de la programación extrema, alentando a pensar
 y re-pensar nuestras metodologías de desarrollo y proponiendo una forma realmente
-ágil para aplanar la curva de cambio del software.</p>
+ágil para aplanar la curva de cambio en el desarrollo de software.</p>
 
 <p><img class="center" src="http://rubylit.github.com/images/xp-aceptar-el-cambio.png" width="450" height="450" title="image" alt="images"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[jax]]></title>
+    <link href="http://rubylit.github.com/blog/2012/12/16/jax/"/>
+    <updated>2012-12-16T10:09:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/12/16/jax</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
