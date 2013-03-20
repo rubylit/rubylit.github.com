@@ -212,9 +212,10 @@ task :deploy do
   if File.exists?(".preview-mode")
     puts "## Found posts in preview mode, regenerating files ..."
     File.delete(".preview-mode")
-    Rake::Task[:generate].execute
-    Rake::Task["setup_github_pages[#{repo_url}]"].execute
   end
+
+  Rake::Task[:generate].execute
+  `rake setup_github_pages[#{repo_url}]`
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
