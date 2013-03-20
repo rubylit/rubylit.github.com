@@ -57,6 +57,3 @@ Para publicar los cambios (hacer push) tienen que:
 
 1. Commitear y hacer push de la rama `source`.
 2. Usar la tarea de `rake deploy`.
-
-
-
