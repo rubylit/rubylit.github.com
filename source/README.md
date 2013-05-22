@@ -56,4 +56,4 @@ Para ver como queda, usan la tarea
 Para publicar los cambios (hacer push) tienen que:
 
 1. Commitear y hacer push de la rama `source`.
-2. Usar la tarea de `rake deploy`.
+2. Usar la tarea de `rake gen_deploy`.
