@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Meetup Agosto 2014"
+date: 2014-08-07
+comments: true
+categories: meetup
+---
+
+Nuevamente muchos asistentes, tuvimos dos charlas y luego las pizzas de rigor. Compramos como siempre en Yusepin. Juanjo se pelea con el gordo que corta las pizzas.
+
+##Charlas
+
+* Aprendiendo Ruby: detalles a tener en cuenta cuando venís de otro lenguaje. - Juanjo Conti
+
+* Patrones de diseño: Implementacion en Ruby de algunos de los patrones más conocidos. - Pablo Oldani.  
+
+##Links
+
+* El evento: <http://www.meetup.com/rubylit/events/195499882/>
+* Charla de Juanjo: <http://www.juanjoconti.com.ar/2014/08/18/aprendiendo-ruby-desde-python/>

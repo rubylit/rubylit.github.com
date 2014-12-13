@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Meetup Julio 2014"
+date: 2014-07-03
+comments: true
+categories: meetup
+---
+
+Creo que fue la primera meetup del año. A mediados de este, después de meses de sequía. Convergieron muchas cosas y hubo mucha gente nueva. Fuimos más de 20 personas. Hubo dos charlas y luego comimos pizza.
+
+##Charlas
+
+* Conceptos básicos de testing y TDD - Gastón Ramos
+
+* Como hacer una interfaz de usuario web (con react.js) usando ideas de programación funcional en lugar de alguna variante de MVC. - Gabriel Andretta 
+
+##Links
+
+* El evento: <http://www.meetup.com/rubylit/events/191471732/>
+* Charla de Gastón: <https://github.com/gramos/truchar-y-triangular>
