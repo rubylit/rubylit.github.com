@@ -1,0 +1,18 @@
+---
+layout: post
+title: "rubylit-meetup-marzo-2015"
+date: 2015-03-06 14:23
+comments: true
+categories:meetup, 2015
+---
+
+Ayer jueves como a las 20hs en las oficinas de Altoros hicimos la primer meetup del año 2015 del grupo de Rubystas de Santa Fe y alrededores, asistieron al evento: @olvap, @ArmandoAndini, @eloyesp, @rmgarciap, @srmanuq, @alener014 , @juanfgs, @gsgerman, @marielcior, @hpmaxi, @gastonramos.
+
+Había dos charlas programadas, la primera fué **“Bad Practices driven development”** que la dí yo, la verdad la charla no la preparé tanto, sin embargo me quedé conforme, algunos de los temas de los que hablé: “A veces programo antes de pensar, empiezo escribiendo código y después voy madurando la idea de lo que quiero”, “Rails DB ConnectionPool”, “Threads”, “Fork” y procesar cosas en background en general, los slides de la charla los pueden ver
+[acá](https://docs.google.com/presentation/d/1-VOPLhAOns4qYF8SF-IPEihXAhs4iPJDWf3neSLwj1o/pub?start=true&loop=true&delayms=10000#slide=id.p), que no tienen mucho sentido por sí solos. Además de mi charla @alener014 titulada **“Como me hubiera convencido a mi mismo de pasarme a ruby: algunas fantasias y ciertas realidades”** la idea era que Alejandro (el orador) viajaba al pasado para convencerse a sí mismo de qué tenía que aprender ruby en vez de python, los slides ivan pasando y los argumentos eran debatidos entre Alejandro y le resto de los asistentes, “Cucumber vs Letucce”, “Debug, preguntarle cosas a la aplicación”, “monads” son algunos ejemplos de la excelente charla final, luego de disfrutar de unas excelentes pizzas de provenzal, muzzarella y napolitana y de que Juanjo nos cuente como es su nuevo desafío aprendiendo “Swift”.
+
+https://pbs.twimg.com/media/B_X-TyKWIAEIym4.jpg:large
+https://pbs.twimg.com/media/B_YNSDmWcAE-GF9.jpg:large
+
+http://twitter.com/jjconti/status/573644147904675840/photo/1
+http://twitter.com/jjconti/status/573660613685153793/photo/1
