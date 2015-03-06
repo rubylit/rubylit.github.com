@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rubylit Meetup Marzo 2015]]></title>
+    <link href="http://rubylit.github.com/blog/2015/03/06/rubylit-meetup-marzo-2015/"/>
+    <updated>2015-03-06T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2015/03/06/rubylit-meetup-marzo-2015</id>
+    <content type="html"><![CDATA[<p>Ayer jueves como a las 20hs en las oficinas de Altoros hicimos la primer meetup del año 2015 del grupo de Rubystas de Santa Fe y alrededores, asistieron al evento: @olvap, @ArmandoAndini, @eloyesp, @rmgarciap, @srmanuq, @alener014 , @juanfgs, @gsgerman, @marielcior, @hpmaxi, @gastonramos.</p>
+
+<p>Había dos charlas programadas, la primera fué <strong>“Bad Practices driven development”</strong> que la dí yo, la verdad la charla no la preparé tanto, sin embargo me quedé conforme, algunos de los temas de los que hablé: “A veces programo antes de pensar, empiezo escribiendo código y después voy madurando la idea de lo que quiero”, “Rails DB ConnectionPool”, “Threads”, “Fork” y procesar cosas en background en general, los slides de la charla los pueden ver
+<a href="https://docs.google.com/presentation/d/1-VOPLhAOns4qYF8SF-IPEihXAhs4iPJDWf3neSLwj1o/pub?start=true&amp;loop=true&amp;delayms=10000#slide=id.p">acá</a>, que no tienen mucho sentido por sí solos. Además de mi charla @alener014 titulada <strong>“Como me hubiera convencido a mi mismo de pasarme a ruby: algunas fantasias y ciertas realidades”</strong> la idea era que Alejandro (el orador) viajaba al pasado para convencerse a sí mismo de qué tenía que aprender ruby en vez de python, los slides ivan pasando y los argumentos eran debatidos entre Alejandro y le resto de los asistentes, “Cucumber vs Letucce”, “Debug, preguntarle cosas a la aplicación”, “monads” son algunos ejemplos de la excelente charla final, luego de disfrutar de unas excelentes pizzas de provenzal, muzzarella y napolitana y de que Juanjo nos cuente como es su nuevo desafío aprendiendo “Swift”.</p>
+
+<p>https://pbs.twimg.com/media/B_X-TyKWIAEIym4.jpg:large
+https://pbs.twimg.com/media/B_YNSDmWcAE-GF9.jpg:large</p>
+
+<p>http://twitter.com/jjconti/status/573644147904675840/photo/1
+http://twitter.com/jjconti/status/573660613685153793/photo/1</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Diciembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/12/13/meetup-diciembre-2014/"/>
+    <updated>2014-12-13T19:10:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/12/13/meetup-diciembre-2014</id>
+    <content type="html"><![CDATA[<p>Despedida de año. Asado y pileta.</p>
+
+<p>Fotos y video: <a href="http://www.juanjoconti.com.ar/2014/12/12/ultima-reunion-de-rubylit-del-2014/">http://www.juanjoconti.com.ar/2014/12/12/ultima-reunion-de-rubylit-del-2014/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Noviembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/11/19/meetup-noviembre-2014/"/>
+    <updated>2014-11-19T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/11/19/meetup-noviembre-2014</id>
+    <content type="html"><![CDATA[<p>Después de que se lleve a cabo RubyConf, salió esta meetup en la que hubo una charla de Python y otra de C++.</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li><p>Viaje por el país enseñando programación y Software Libre (versión resumida de charla de PyCon Ar) - Humitos</p></li>
+<li><p>Desarrollo de un software que viene haciendo hace 10 años (!) - David Capello</p></li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/218740323/">http://www.meetup.com/rubylit/events/218740323/</a></li>
+<li>Página que del proyecto de Humitos: <a href="http://elblogdehumitos.com.ar/pages/argentina-en-python/">http://elblogdehumitos.com.ar/pages/argentina-en-python/</a></li>
+<li>Página del software desarrollado por David: <a href="http://www.aseprite.org/">http://www.aseprite.org/</a></li>
+<li>Post de Gasón: <a href="https://gastonramos.wordpress.com/2014/11/20/la-mejor-meetup-de-rubylit-del-ano/">https://gastonramos.wordpress.com/2014/11/20/la-mejor-meetup-de-rubylit-del-ano/</a></li>
+<li>Fotos: <a href="https://www.flickr.com/photos/20667659@N03/15214497443/">https://www.flickr.com/photos/20667659@N03/15214497443/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Estuvimos en RubyConf 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/10/25/estuvimos-en-rubyconf-2014/"/>
+    <updated>2014-10-25T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/10/25/estuvimos-en-rubyconf-2014</id>
+    <content type="html"><![CDATA[<p>23, 24 y 25 de octubre. Estuvimos en RubyConf 2014.</p>
+
+<p><img class="center" src="http://rubylit.github.com/photos/rubyconf2014-640.jpg" width="640" height="424" title="En RubyConf 2014" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Octubre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/10/07/meetup-octubre-2014/"/>
+    <updated>2014-10-07T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/10/07/meetup-octubre-2014</id>
+    <content type="html"><![CDATA[<p>La reunión más pobre del año. Fuimos 4: Eloy, Juanjo, Germán y Juan Francisco.</p>
+
+<p>Empezamos a programar esto: <a href="https://github.com/rubylit/gotero">https://github.com/rubylit/gotero</a> y comimos pizza.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Septiembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/09/09/meetup-septiembre-2014/"/>
+    <updated>2014-09-09T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/09/09/meetup-septiembre-2014</id>
+    <content type="html"><![CDATA[<p>Peligro de lluvia. Algunos se bajan. Se hace igual. Manuq lleva un proyector!</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li>Notas sobre RubyConf Uruguay - Juan Pablo Taulamet - CANCELADA</li>
+<li>Presentación de página creada para Cinema La Callor. Cosas a destacar: three.js, paper.js, modularización de código javascript. - Manuel Quiñones</li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/203919922/">http://www.meetup.com/rubylit/events/203919922/</a></li>
+<li>Página que mostró Manuq: <a href="http://interactivo.cinemalacalor.org.ar/">http://interactivo.cinemalacalor.org.ar/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Agosto 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/08/07/meetup-agosto-2014/"/>
+    <updated>2014-08-07T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/08/07/meetup-agosto-2014</id>
+    <content type="html"><![CDATA[<p>Nuevamente muchos asistentes, tuvimos dos charlas y luego las pizzas de rigor. Compramos como siempre en Yusepin. Juanjo se pelea con el gordo que corta las pizzas.</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li><p>Aprendiendo Ruby: detalles a tener en cuenta cuando venís de otro lenguaje. - Juanjo Conti</p></li>
+<li><p>Patrones de diseño: Implementacion en Ruby de algunos de los patrones más conocidos. - Pablo Oldani.</p></li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/195499882/">http://www.meetup.com/rubylit/events/195499882/</a></li>
+<li>Charla de Juanjo: <a href="http://www.juanjoconti.com.ar/2014/08/18/aprendiendo-ruby-desde-python/">http://www.juanjoconti.com.ar/2014/08/18/aprendiendo-ruby-desde-python/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Julio 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/07/03/meetup-julio-2014/"/>
+    <updated>2014-07-03T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/07/03/meetup-julio-2014</id>
+    <content type="html"><![CDATA[<p>Creo que fue la primera meetup del año. A mediados de este, después de meses de sequía. Convergieron muchas cosas y hubo mucha gente nueva. Fuimos más de 20 personas. Hubo dos charlas y luego comimos pizza.</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li><p>Conceptos básicos de testing y TDD - Gastón Ramos</p></li>
+<li><p>Como hacer una interfaz de usuario web (con react.js) usando ideas de programación funcional en lugar de alguna variante de MVC. - Gabriel Andretta</p></li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/191471732/">http://www.meetup.com/rubylit/events/191471732/</a></li>
+<li>Charla de Gastón: <a href="https://github.com/gramos/truchar-y-triangular">https://github.com/gramos/truchar-y-triangular</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Instalando RoR]]></title>
+    <link href="http://rubylit.github.com/blog/2013/05/22/instalacion/"/>
+    <updated>2013-05-22T09:36:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2013/05/22/instalacion</id>
+    <content type="html"><![CDATA[<p>La idea de este post es, mediante una serie de pasos, tener registrado el proceso de instalación de ruby y Ruby on rails.</p>
+
+<h2>Ubuntu</h2>
+
+<h3>Dependencias necesarias.</h3>
+
+<p>En la terminal</p>
+
+<pre><code>sudo apt-get install autoconf automake bison build-essential curl git-core libapr1 libaprutil1 libc6-dev libltdl-dev libreadline6 libreadline6-dev libsqlite3-0 libsqlite3-dev libssl-dev libtool libxml2-dev libxslt-dev libxslt1-dev libyaml-dev ncurses-dev openssl sqlite3 zlib1g zlib1g-dev
+</code></pre>
+
+<h2>Windows</h2>
+
+<p>Desde RubyLit no aconsejamos usar Windows, pero si realmente no te queda otra, podes bajarte un instalador en esta <a href="http://railsinstaller.org/">página</a></p>
+
+<h2>Git</h2>
+
+<p>Es un <a href="http://es.wikipedia.org/wiki/Control_de_versiones">sistema de control de versiones</a>, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.</p>
+
+<p><a href="https://github.com/">GitHub</a>, es un sitio web para compartir proyectos en git. Si todavía no tenes cuenta, hacela ya que la mayoria del código de <a href="https://github.com/ruby/ruby">ruby</a> y <a href="https://github.com/rails/rails">rails</a> está en esta web.</p>
+
+<h2>RVM</h2>
+
+<p><a href="https://rvm.io/">RVM</a> es una herramienta de consola que nos permite fácilmente instalar, administrar, y trabajar con multiples entornos de ruby desde interpretes hasta sets de gemas.</p>
+
+<p>Para instalar la última version ejecutamos en la consola.</p>
+
+<pre><code>curl -L get.rvm.io | bash -s stable
+</code></pre>
+
+<p>Cerramos la consola y la brimos nuevamente. Para verificar que todo esté en orden escribimos esto en la terminal.</p>
+
+<pre><code>type rvm | head -1
+</code></pre>
+
+<p>Tiene que devolver algo así:</p>
+
+<pre><code>rvm is a function
+</code></pre>
+
+<p>Si escribimos.</p>
+
+<pre><code>rvm -v
+</code></pre>
+
+<p>Vamos a ver algo parecido a esto.</p>
+
+<pre><code>rvm 1.x.x (stable) by ...
+</code></pre>
+
+<p>Si estás usando Ubuntu 12.04 o la última version de Mint, asegurate de tener la opcion &#8216;Run command as login shell&#8217; marcada en la pestaña &#8216;Title and Command&#8217; en Profile Preferences. Despues de cambiar esto, vas a tener que reiniciar la consola para que los cambios tengan efecto.</p>
+
+<h2>Ruby</h2>
+
+<p>ahora que tenemos instalado rvm en nuestra computadora, podemos instalar cualquier version de ruby.
+Probamos con</p>
+
+<pre><code>rvm install 1.9.3
+</code></pre>
+
+<p>Dejamos como default con &#8211;default</p>
+
+<pre><code>rvm use 1.9.3 --default
+</code></pre>
+
+<h2>Rails</h2>
+
+<p>Para instalar rails, simplemente tenemos que correr esto en la terminal</p>
+
+<pre><code>gem install rails
+</code></pre>
+
+<p>para verificar que está todo bien podemos intentar crear una aplicación rails con el comando</p>
+
+<pre><code>mkdir proyects
+cd proyects
+rails new prueba
+</code></pre>
+
+<p>Tenemos que ver una salida con los archivos creados.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[XP, aceptar el cambio]]></title>
+    <link href="http://rubylit.github.com/blog/2013/03/19/xp/"/>
+    <updated>2013-03-19T12:41:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2013/03/19/xp</id>
+    <content type="html"><![CDATA[<p><a href="http://gastonramos.com.ar/talks/xp">Charla</a> dictada por <a href="http://gastonramos.com.ar">Gastón Ramos</a> en la meetup de Rubylit el 7 de febrero 2013.
+La charla es una explicación de la programación extrema, alentando a pensar
+y re-pensar nuestras metodologías de desarrollo y proponiendo una forma realmente
+ágil para aplanar la curva de cambio en el desarrollo de software.</p>
+
+<p><img class="center" src="http://rubylit.github.com/images/xp-aceptar-el-cambio.png" width="450" height="450" title="image" alt="images"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Grails for Rubists]]></title>
+    <link href="http://rubylit.github.com/blog/2013/02/06/grails-for-rubists/"/>
+    <updated>2013-02-06T19:55:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2013/02/06/grails-for-rubists</id>
+    <content type="html"><![CDATA[<p><img src="http://grails.org/doc/2.0.x/img/grails.png" alt="Grails icon" /></p>
+
+<p>Esta fue mi primer presentación en los meetups. Dado que mi bagaje &#8216;programático&#8217; está compuesto principalmente de Java y en el último par de años incursioné en Grails dentro de una gran movida cuandro trabajaba en Mercadolibre.</p>
+
+<p>El nombre mismo del FW sugiere al lector que se han tomado muchísimas ideas desde Rails y se las han plasmado en este framework que corre sobre una Java Virtual Machine, pero se diferencia en algo completamente nuevo en el mundo Java, principalmente Spring GW, que es el lenguaje dinámico Groovy.</p>
+
+<p>Les dejo el link a la presentación
+<a href="http://prezi.com/vu_zsteiyqiv/intro-a-grails-para-railers/">http://prezi.com/vu_zsteiyqiv/intro-a-grails-para-railers/</a></p>
+
+<p>Detalles del framework: <a href="http://grails.org">http://grails.org</a></p>
+
+<hr />
+
+<p>Manu García<br/>
+<a href="https://twitter.com/rmgarciap">https://twitter.com/rmgarciap</a><br/>
+<a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x6d;&#97;&#x6e;&#117;&#101;&#x6c;&#46;&#103;&#x61;&#x72;&#99;&#x69;&#97;&#64;&#97;&#108;&#116;&#111;&#x72;&#x6f;&#x73;&#46;&#99;&#x6f;&#x6d;">&#109;&#97;&#x6e;&#117;&#x65;&#x6c;&#x2e;&#x67;&#97;&#x72;&#x63;&#x69;&#97;&#64;&#97;&#x6c;&#116;&#111;&#x72;&#x6f;&#115;&#x2e;&#x63;&#111;&#x6d;</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Focus]]></title>
+    <link href="http://rubylit.github.com/blog/2012/12/12/focus/"/>
+    <updated>2012-12-12T15:31:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/12/12/focus</id>
+    <content type="html"><![CDATA[<p>Bueno, este post de ejemplo es sobre la charla sobre focus, que tuvo un impacto
+inesperado en la lista, así que puedo agregar acá algunos links para que sean
+faciménte encontrables.</p>
+
+<p>Por un lado, acá se pueden bajar <a href="http://focusmanifesto.com/">el libro</a> que también está
+<a href="http://homominimus.com/2010/12/03/focus-de-leo-babauta-traduccion-al-espanol/">en castenayo</a>. También les dejo a disposición <a href="http://www.mediafire.com/view/?39a2e119zvirwyc">el powerpoint</a> que usé
+durante la charla.</p>
+
+<script async class="speakerdeck-embed" data-id="b3b836d026bb0130d81c12313d1a713a" data-ratio="1.33333333333333" src="http://rubylit.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jax Framework]]></title>
+    <link href="http://rubylit.github.com/blog/2012/12/06/jax/"/>
+    <updated>2012-12-06T11:50:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/12/06/jax</id>
+    <content type="html"><![CDATA[<p>Jax es un framework de ruby para la creación de aplicaciones WebGl basado en Rails. La mayoría del código se escribe en coffee script lo que lo hace rápido y simple. Se pueden ver algunos <a href="http://sinisterchipmunk.github.com">ejemplos acá</a></p>
+
+<ul>
+<li><a href="http://guides.jaxgl.com/">Guias - http://guides.jaxgl.com/</a></li>
+<li><a href="http://blog.jaxgl.com/">Blog - http://blog.jaxgl.com/</a></li>
+<li><a href="http://sinisterchipmunk.github.com">Ejemplos - http://sinisterchipmunk.github.com</a></li>
+</ul>
+
+
+<script async class="speakerdeck-embed" data-id="1413e7b0739c01300eac123139183399" data-ratio="1.33333333333333" src="http://rubylit.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Active Admin]]></title>
+    <link href="http://rubylit.github.com/blog/2012/11/01/active-admin/"/>
+    <updated>2012-11-01T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/11/01/active-admin</id>
+    <content type="html"><![CDATA[<p>El verdadero título de charla fue &#8216;ActiveAdmin, verdades y mentiras de un mundo sin
+es escrúpulos&#8217; y los que se hizo fue un análisis de las ventajas y desventajas del
+uso de esta herramienta.</p>
+
+<p>Podés investigar más sobre <a href="http://activeadmin.info">Active Admin</a> e incluso ver una <a href="http://demo.activeadmin.info/admin">versión online</a>.</p>
+
+<p>Durante la charla olvap preparo y dio a conocer su comentario.</p>
+
+<p>Acá les dejo los <a href="https://docs.google.com/presentation/d/1dR4Upop565Ia74grwbbhOCQJInsyEkX1iete0fvG4Ig/edit">slider</a> :).</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: XP | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/xp/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[XP, aceptar el cambio]]></title>
+    <link href="http://rubylit.github.com/blog/2013/03/19/xp/"/>
+    <updated>2013-03-19T12:41:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2013/03/19/xp</id>
+    <content type="html"><![CDATA[<p><a href="http://gastonramos.com.ar/talks/xp">Charla</a> dictada por <a href="http://gastonramos.com.ar">Gastón Ramos</a> en la meetup de Rubylit el 7 de febrero 2013.
+La charla es una explicación de la programación extrema, alentando a pensar
+y re-pensar nuestras metodologías de desarrollo y proponiendo una forma realmente
+ágil para aplanar la curva de cambio en el desarrollo de software.</p>
+
+<p><img class="center" src="/images/xp-aceptar-el-cambio.png" width="450" height="450" title="image" alt="images"></p>
+]]></content>
+  </entry>
+  
+</feed>

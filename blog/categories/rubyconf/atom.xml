@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: RubyConf | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/rubyconf/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Estuvimos en RubyConf 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/10/25/estuvimos-en-rubyconf-2014/"/>
+    <updated>2014-10-25T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/10/25/estuvimos-en-rubyconf-2014</id>
+    <content type="html"><![CDATA[<p>23, 24 y 25 de octubre. Estuvimos en RubyConf 2014.</p>
+
+<p><img class="center" src="/photos/rubyconf2014-640.jpg" width="640" height="424" title="En RubyConf 2014" ></p>
+]]></content>
+  </entry>
+  
+</feed>

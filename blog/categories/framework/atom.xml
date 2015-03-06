@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Framework | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/framework/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Jax Framework]]></title>
+    <link href="http://rubylit.github.com/blog/2012/12/06/jax/"/>
+    <updated>2012-12-06T11:50:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/12/06/jax</id>
+    <content type="html"><![CDATA[<p>Jax es un framework de ruby para la creación de aplicaciones WebGl basado en Rails. La mayoría del código se escribe en coffee script lo que lo hace rápido y simple. Se pueden ver algunos <a href="http://sinisterchipmunk.github.com">ejemplos acá</a></p>
+
+<ul>
+<li><a href="http://guides.jaxgl.com/">Guias - http://guides.jaxgl.com/</a></li>
+<li><a href="http://blog.jaxgl.com/">Blog - http://blog.jaxgl.com/</a></li>
+<li><a href="http://sinisterchipmunk.github.com">Ejemplos - http://sinisterchipmunk.github.com</a></li>
+</ul>
+
+
+<script async class="speakerdeck-embed" data-id="1413e7b0739c01300eac123139183399" data-ratio="1.33333333333333" src="http://rubylit.github.com//speakerdeck.com/assets/embed.js"></script>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

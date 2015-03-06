@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Diciembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/12/13/meetup-diciembre-2014/"/>
+    <updated>2014-12-13T19:10:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/12/13/meetup-diciembre-2014</id>
+    <content type="html"><![CDATA[<p>Despedida de año. Asado y pileta.</p>
+
+<p>Fotos y video: <a href="http://www.juanjoconti.com.ar/2014/12/12/ultima-reunion-de-rubylit-del-2014/">http://www.juanjoconti.com.ar/2014/12/12/ultima-reunion-de-rubylit-del-2014/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Noviembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/11/19/meetup-noviembre-2014/"/>
+    <updated>2014-11-19T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/11/19/meetup-noviembre-2014</id>
+    <content type="html"><![CDATA[<p>Después de que se lleve a cabo RubyConf, salió esta meetup en la que hubo una charla de Python y otra de C++.</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li><p>Viaje por el país enseñando programación y Software Libre (versión resumida de charla de PyCon Ar) - Humitos</p></li>
+<li><p>Desarrollo de un software que viene haciendo hace 10 años (!) - David Capello</p></li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/218740323/">http://www.meetup.com/rubylit/events/218740323/</a></li>
+<li>Página que del proyecto de Humitos: <a href="http://elblogdehumitos.com.ar/pages/argentina-en-python/">http://elblogdehumitos.com.ar/pages/argentina-en-python/</a></li>
+<li>Página del software desarrollado por David: <a href="http://www.aseprite.org/">http://www.aseprite.org/</a></li>
+<li>Post de Gasón: <a href="https://gastonramos.wordpress.com/2014/11/20/la-mejor-meetup-de-rubylit-del-ano/">https://gastonramos.wordpress.com/2014/11/20/la-mejor-meetup-de-rubylit-del-ano/</a></li>
+<li>Fotos: <a href="https://www.flickr.com/photos/20667659@N03/15214497443/">https://www.flickr.com/photos/20667659@N03/15214497443/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Octubre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/10/07/meetup-octubre-2014/"/>
+    <updated>2014-10-07T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/10/07/meetup-octubre-2014</id>
+    <content type="html"><![CDATA[<p>La reunión más pobre del año. Fuimos 4: Eloy, Juanjo, Germán y Juan Francisco.</p>
+
+<p>Empezamos a programar esto: <a href="https://github.com/rubylit/gotero">https://github.com/rubylit/gotero</a> y comimos pizza.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Septiembre 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/09/09/meetup-septiembre-2014/"/>
+    <updated>2014-09-09T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/09/09/meetup-septiembre-2014</id>
+    <content type="html"><![CDATA[<p>Peligro de lluvia. Algunos se bajan. Se hace igual. Manuq lleva un proyector!</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li>Notas sobre RubyConf Uruguay - Juan Pablo Taulamet - CANCELADA</li>
+<li>Presentación de página creada para Cinema La Callor. Cosas a destacar: three.js, paper.js, modularización de código javascript. - Manuel Quiñones</li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/203919922/">http://www.meetup.com/rubylit/events/203919922/</a></li>
+<li>Página que mostró Manuq: <a href="http://interactivo.cinemalacalor.org.ar/">http://interactivo.cinemalacalor.org.ar/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Agosto 2014]]></title>
+    <link href="http://rubylit.github.com/blog/2014/08/07/meetup-agosto-2014/"/>
+    <updated>2014-08-07T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2014/08/07/meetup-agosto-2014</id>
+    <content type="html"><![CDATA[<p>Nuevamente muchos asistentes, tuvimos dos charlas y luego las pizzas de rigor. Compramos como siempre en Yusepin. Juanjo se pelea con el gordo que corta las pizzas.</p>
+
+<h2>Charlas</h2>
+
+<ul>
+<li><p>Aprendiendo Ruby: detalles a tener en cuenta cuando venís de otro lenguaje. - Juanjo Conti</p></li>
+<li><p>Patrones de diseño: Implementacion en Ruby de algunos de los patrones más conocidos. - Pablo Oldani.</p></li>
+</ul>
+
+
+<h2>Links</h2>
+
+<ul>
+<li>El evento: <a href="http://www.meetup.com/rubylit/events/195499882/">http://www.meetup.com/rubylit/events/195499882/</a></li>
+<li>Charla de Juanjo: <a href="http://www.juanjoconti.com.ar/2014/08/18/aprendiendo-ruby-desde-python/">http://www.juanjoconti.com.ar/2014/08/18/aprendiendo-ruby-desde-python/</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

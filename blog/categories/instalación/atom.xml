@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: instalación | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/instalación/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Instalando RoR]]></title>
+    <link href="http://rubylit.github.com/blog/2013/05/22/instalacion/"/>
+    <updated>2013-05-22T09:36:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2013/05/22/instalacion</id>
+    <content type="html"><![CDATA[<p>La idea de este post es, mediante una serie de pasos, tener registrado el proceso de instalación de ruby y Ruby on rails.</p>
+
+<h2>Ubuntu</h2>
+
+<h3>Dependencias necesarias.</h3>
+
+<p>En la terminal</p>
+
+<pre><code>sudo apt-get install autoconf automake bison build-essential curl git-core libapr1 libaprutil1 libc6-dev libltdl-dev libreadline6 libreadline6-dev libsqlite3-0 libsqlite3-dev libssl-dev libtool libxml2-dev libxslt-dev libxslt1-dev libyaml-dev ncurses-dev openssl sqlite3 zlib1g zlib1g-dev
+</code></pre>
+
+<h2>Windows</h2>
+
+<p>Desde RubyLit no aconsejamos usar Windows, pero si realmente no te queda otra, podes bajarte un instalador en esta <a href="http://railsinstaller.org/">página</a></p>
+
+<h2>Git</h2>
+
+<p>Es un <a href="http://es.wikipedia.org/wiki/Control_de_versiones">sistema de control de versiones</a>, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.</p>
+
+<p><a href="https://github.com/">GitHub</a>, es un sitio web para compartir proyectos en git. Si todavía no tenes cuenta, hacela ya que la mayoria del código de <a href="https://github.com/ruby/ruby">ruby</a> y <a href="https://github.com/rails/rails">rails</a> está en esta web.</p>
+
+<h2>RVM</h2>
+
+<p><a href="https://rvm.io/">RVM</a> es una herramienta de consola que nos permite fácilmente instalar, administrar, y trabajar con multiples entornos de ruby desde interpretes hasta sets de gemas.</p>
+
+<p>Para instalar la última version ejecutamos en la consola.</p>
+
+<pre><code>curl -L get.rvm.io | bash -s stable
+</code></pre>
+
+<p>Cerramos la consola y la brimos nuevamente. Para verificar que todo esté en orden escribimos esto en la terminal.</p>
+
+<pre><code>type rvm | head -1
+</code></pre>
+
+<p>Tiene que devolver algo así:</p>
+
+<pre><code>rvm is a function
+</code></pre>
+
+<p>Si escribimos.</p>
+
+<pre><code>rvm -v
+</code></pre>
+
+<p>Vamos a ver algo parecido a esto.</p>
+
+<pre><code>rvm 1.x.x (stable) by ...
+</code></pre>
+
+<p>Si estás usando Ubuntu 12.04 o la última version de Mint, asegurate de tener la opcion 'Run command as login shell' marcada en la pestaña 'Title and Command' en Profile Preferences. Despues de cambiar esto, vas a tener que reiniciar la consola para que los cambios tengan efecto.</p>
+
+<h2>Ruby</h2>
+
+<p>ahora que tenemos instalado rvm en nuestra computadora, podemos instalar cualquier version de ruby.
+Probamos con</p>
+
+<pre><code>rvm install 1.9.3
+</code></pre>
+
+<p>Dejamos como default con --default</p>
+
+<pre><code>rvm use 1.9.3 --default
+</code></pre>
+
+<h2>Rails</h2>
+
+<p>Para instalar rails, simplemente tenemos que correr esto en la terminal</p>
+
+<pre><code>gem install rails
+</code></pre>
+
+<p>para verificar que está todo bien podemos intentar crear una aplicación rails con el comando</p>
+
+<pre><code>mkdir proyects
+cd proyects
+rails new prueba
+</code></pre>
+
+<p>Tenemos que ver una salida con los archivos creados.</p>
+]]></content>
+  </entry>
+  
+</feed>

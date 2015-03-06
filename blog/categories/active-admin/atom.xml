@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Active Admin | RubyLit - Ruby.del.litoral!]]></title>
+  <link href="http://rubylit.github.com/blog/categories/active-admin/atom.xml" rel="self"/>
+  <link href="http://rubylit.github.com/"/>
+  <updated>2015-03-06T15:45:48-03:00</updated>
+  <id>http://rubylit.github.com/</id>
+  <author>
+    <name><![CDATA[rubylit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Active Admin]]></title>
+    <link href="http://rubylit.github.com/blog/2012/11/01/active-admin/"/>
+    <updated>2012-11-01T00:00:00-03:00</updated>
+    <id>http://rubylit.github.com/blog/2012/11/01/active-admin</id>
+    <content type="html"><![CDATA[<p>El verdadero título de charla fue 'ActiveAdmin, verdades y mentiras de un mundo sin
+es escrúpulos' y los que se hizo fue un análisis de las ventajas y desventajas del
+uso de esta herramienta.</p>
+
+<p>Podés investigar más sobre <a href="http://activeadmin.info">Active Admin</a> e incluso ver una <a href="http://demo.activeadmin.info/admin">versión online</a>.</p>
+
+<p>Durante la charla olvap preparo y dio a conocer su comentario.</p>
+
+<p>Acá les dejo los <a href="https://docs.google.com/presentation/d/1dR4Upop565Ia74grwbbhOCQJInsyEkX1iete0fvG4Ig/edit">slider</a> :).</p>
+]]></content>
+  </entry>
+  
+</feed>
